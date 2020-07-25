@@ -12,3 +12,4 @@ quotechar，官方文档解释是用来引用字段的字符，即当出现换�
 
 line_terminator，换行符的表示形式，默认是用os.linesep函数进行获取的
 
+Pycharm+Anaconda 使用conda自带的lxml包 没有etree  解决方法是卸载自带的lxml包   用pip重新下载一下
